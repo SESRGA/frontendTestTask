@@ -1,0 +1,38 @@
+.walletButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 32px;
+    background: #08D899;
+    box-shadow: 0px 8px 16px rgba(8, 216, 153, 0.2);
+    border-radius: 8px;
+    width: 200px;
+    height: 48px;
+    right: 70px;
+    border: none;
+    color: white;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.accountLabel {
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background: white;
+}
+
+.accountName {
+    padding: 5px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #08D899;
+}
